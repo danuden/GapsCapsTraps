@@ -4,5 +4,5 @@ Disclaimer: This draft manuscript is distributed solely for purposes of scientif
 
 Study citation: Uden, D.R., C.R. Allen, D. Twidwell, and K.G. Cassman. 2018. Three challenges for sustainable agriculture: Close gaps, respect caps, and avoid traps.
 
-Information: This repository contains 3 annoted R scripts ("YieldGaps4.R", "EnvironmentalCaps5.R", and "Traps3.R") and 2 countries of the World shapefiles ("TM_WORLD_BORDERS-0.3.shp" and "WorldCopy.shp") used in the analysis of Uden et al. (2018). Countries of the World shapefiles were obtained online at http://thematicmapping.org/. Yield gap, environmental cap, and social - ecological trap data are included as csv files.
+Information: This repository contains 3 annoted R scripts ("YieldGaps4.R", "EnvironmentalCaps5.R", and "Traps3.R") and 2 countries of the World shapefiles ("TM_WORLD_BORDERS-0.3.shp" and "WorldCopy.shp") used in the analysis of Uden et al. (2018). Countries of the World shapefiles were obtained online at http://thematicmapping.org/. Yield gap, environmental cap, and social-ecological trap data are included in manuscript supplementary materials.
 
